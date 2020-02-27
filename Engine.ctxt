@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Engine
+comment0.text=\r\n\ The\ Actual\ Game.\ Run\ main\ method\ \:D\r\n\r\n\ @author\ William\ Wang\r\n\ @version\ 2018.01.05\r\n
+comment1.params=
+comment1.target=Engine()
+comment2.params=
+comment2.target=void\ seperate()
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String)
+comment3.text=\r\n\ The\ Game.\r\n
+numComments=4
